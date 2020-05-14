@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>nuget_test</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="SM.Serialization" Version="1.0.0" />
+  </ItemGroup>  
+</Project>
