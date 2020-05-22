@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xVQGLGTOxxh5MeTIm1ZbRf18p8ctk5jL0IdeG9nF+TPQfEc0oT4gKQSqxA0MsFvvSsz3/TV97h6Fy++qBRryA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Parker\\Source\\Repos\\SpilledMilkCOMTest\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parker\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Parker\\.nuget\\packages\\sm.serialization\\1.0.0\\sm.serialization.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
