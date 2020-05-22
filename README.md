@@ -11,4 +11,5 @@ Test restoring the SM.Serialization package
 
 In both `restore` cases I did not see any errors.
 
-Now it's time to check in the code to see if it triggers the action.
+Now it's time to check in the code to see if it triggers the action.  That triggered the action, but since I removed the credentials the Action blew up because there were no credentials...  duh, comes to mind. :laughing:
+
